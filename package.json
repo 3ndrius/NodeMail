@@ -1,0 +1,23 @@
+{
+  "name": "node_mail",
+  "version": "1.0.0",
+  "description": "Node mail service to send mail ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodemailer",
+    "send",
+    "mail"
+  ],
+  "author": "3ndrius",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.11"
+  }
+}
